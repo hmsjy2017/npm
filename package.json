@@ -1,0 +1,15 @@
+{
+  "name": "@hmsjy2017/npm",
+  "description": "Files on NPM",
+  "version": "1.0.0",
+  "keywords": [
+    "npm",
+    "publish",
+    "version",
+    "bump"
+  ],
+  "author": {
+    "name": "Tony",
+    "url": "https://blog.iamsjy.com"
+  },
+  "license": "MIT",
