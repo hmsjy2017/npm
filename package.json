@@ -13,3 +13,8 @@
     "url": "https://blog.iamsjy.com"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hmsjy2017/npm.git"
+  }
+}
